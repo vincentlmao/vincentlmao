@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently contributing to Mozilla codebases¶<br>Learning more advanced web development skill sets/Ruby
+Currently contributing to Mozilla codebases<br>Learning more advanced web development skill sets/Ruby
 
 
 ## 🌐 Socials:
